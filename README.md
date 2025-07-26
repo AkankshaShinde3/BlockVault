@@ -38,30 +38,41 @@ git clone https://github.com/AkankshaShinde3/decentralized-image-upload.git
 
 Hardhat Setup (Backend)
 
-# Navigate to the root directory
+### 2. Navigate to the root directory
+```bash
 cd BlockVault
+```
 
-# Install Hardhat dependencies
+### 3. Install Hardhat dependencies
+```bash
 npm install
+```
 
-# Compile Smart Contracts
+### 4. Compile Smart Contracts
+```bash
 npx hardhat compile
+```
 
 Deploy the Smart Contract
 
-# Deploy Smart Contract to a local/test network
+### Deploy Smart Contract to a local/test network
+```bash
 npx hardhat run scripts/deploy.js --network <network-name>
-
+```
 
 React Frontend Setup
 
-# Navigate to the client directory
+### 1. Navigate to the client directory
+```bash
 cd client
+```
 
-# Install React dependencies
+### 2. Install React dependencies
+```bash
 npm install
+```
 
-# Start the React application
+### 3. Start the React application
+```
 npm start
-
-
+```
