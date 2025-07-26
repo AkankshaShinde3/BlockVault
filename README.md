@@ -33,7 +33,8 @@ BlockVault is a decentralized application (dApp) that enables users to securely 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AkankshaShinde3/decentralized-image-upload.git
+git clone https://github.com/AkankshaShinde3/decentralized-image-upload.git 
+```
 
 Hardhat Setup (Backend)
 
